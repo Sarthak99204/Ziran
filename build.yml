@@ -1,0 +1,11 @@
+me: build
+channels:
+  - tyronechen
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - anaconda-client
+  - boa
+  - python==3.9
+
